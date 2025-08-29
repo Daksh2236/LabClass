@@ -9,3 +9,5 @@
    true = boolean
    “33” = string
    3.1415 double
+
+32. you would have to make a new class to add a new field
