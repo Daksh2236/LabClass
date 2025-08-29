@@ -15,3 +15,5 @@
 33. public void send (String message)
 
 34. public int average (int number1, int number2)
+
+35. The book i am reading is the first with java and it would be an object with Book being its class
