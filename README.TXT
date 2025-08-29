@@ -13,3 +13,5 @@
 32. you would have to make a new class to add a new field
 
 33. public void send (String message)
+
+34. public int average (int number1, int number2)
